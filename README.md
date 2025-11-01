@@ -50,7 +50,7 @@
 
 ## 📱 Current Project
 
-**[🎬 BlossomMovie](https://github.com/dimitrije-dev/BlossomMovie)**  
+**[🎬 MovieView](https://github.com/dimitrije-dev/MovieView)**  
 > A modern iOS app built with SwiftUI that displays trending and top-rated movies using the TMDB API.  
 > Clean UI, smooth animations, and async networking.
 
