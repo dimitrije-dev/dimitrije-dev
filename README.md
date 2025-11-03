@@ -50,9 +50,9 @@
 
 ## 📱 Current Project
 
-**[🎬 MovieView](https://github.com/dimitrije-dev/MovieView)**  
-> A modern iOS app built with SwiftUI that displays trending and top-rated movies using the TMDB API.  
-> Clean UI, smooth animations, and async networking.
+**[💻 N Lite](https://github.com/dimitrije-dev/N-Lite)**  
+> A modern iOS app built with SwiftUI for mental health.  
+
 
 ---
 
