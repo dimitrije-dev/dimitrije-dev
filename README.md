@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi there, I'm Dimitrije</h1>
+<h1 align="center"> Hi there, I'm Dimitrije</h1>
 
-<h3 align="center">🍎 iOS & Full-Stack Developer | Swift, SwiftUI, React, Express | Final Year @ Metropolitan University Belgrade</h3>
+<h3 align="center"> iOS & Full-Stack Developer | Swift, SwiftUI, React, Express | Final Year @ Metropolitan University Belgrade</h3>
 
 ---
 
-## 💫 About Me
+##  About Me
 
 🎓 Final-year **Software Engineering student** at **Metropolitan University Belgrade**  
 📱 Focused on **iOS development** using **Swift** and **SwiftUI**  
@@ -15,9 +15,9 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 🍏 iOS & Mobile
+###  iOS & Mobile
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-### 💻 Web & Backend
+###  Web & Backend
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
