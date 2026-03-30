@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Dimitrije</h1>
 
-<h3 align="center"> iOS & Full-Stack Developer | Swift, SwiftUI, React, Express | Final Year @ Metropolitan University Belgrade</h3>
+<h3 align="center"> Final Year @ Metropolitan University Belgrade</h3>
 
 ---
 
@@ -50,10 +50,9 @@
 
 ## 📱 Current Project
 
-**[💻 N Lite](https://github.com/dimitrije-dev/N-Lite)**  
-> A modern iOS app built with SwiftUI for mental health.  
-
-
+**[💻 SerbianWhisper AI https://github.com/dimitrije-dev/SerbianWhisperAI]()**  
+> Local-first audio transcription web app
+React + Vite frontend, FastAPI backend, Faster-Whisper transcription engine.  
 ---
 
 ## 🌐 Socials
