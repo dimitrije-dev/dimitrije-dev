@@ -50,7 +50,7 @@
 
 ## 📱 Current Project
 
-**[💻 SerbianWhisper AI https://github.com/dimitrije-dev/SerbianWhisperAI]()**  
+**[💻 SerbianWhisper AI](https://github.com/dimitrije-dev/SerbianWhisperAI)**  
 > Local-first audio transcription web app
 React + Vite frontend, FastAPI backend, Faster-Whisper transcription engine.  
 ---
