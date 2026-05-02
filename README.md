@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Dimitrije</h1>
+
 
 <h3 align="center"> Final Year @ Metropolitan University Belgrade</h3>
 
