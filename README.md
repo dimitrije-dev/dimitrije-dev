@@ -11,33 +11,26 @@
 
 ---
 
-## Tech Stack
+## Technologies
 
-- **Mobile:** Swift, SwiftUI, SwiftData, UIKit, Kotlin, Jetpack Compose  
-- **Frontend:** React, Vite, JavaScript, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, FastAPI, Java, Spring Boot  
-- **Databases & Tools:** PostgreSQL, MySQL, MongoDB, Docker, Git, Postman  
-- **Architecture:** MVVM, Clean Architecture, REST APIs, modular systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,react,vite,js,html,css,tailwind,nodejs,express,python,fastapi,java,spring,postgres,mysql,mongodb,docker,git,github,postman,figma,vercel" />
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Technologies |
 |---|---|---|
-| [SerbianWhisperAI](https://github.com/dimitrije-dev/SerbianWhisperAI) | Local-first clinical transcription and draft generation platform. | React, FastAPI, Faster-Whisper, Ollama |
-| [CodeHub](https://github.com/dimitrije-dev/CodeHub) | Developer workspace for tasks, snippets, and project organization. | React, Node.js, Express, PostgreSQL, Docker |
-| [N Lite](https://github.com/dimitrije-dev/N-Lite) | iOS mood tracking app with clean SwiftUI architecture. | Swift, SwiftUI, SwiftData, MVVM |
+| [SerbianWhisperAI](https://github.com/dimitrije-dev/SerbianWhisperAI) | Local-first clinical transcription and draft generation platform. | <img src="https://skillicons.dev/icons?i=react,vite,python,fastapi,docker" height="24" /> |
+| [CodeHub](https://github.com/dimitrije-dev/CodeHub) | Developer workspace for tasks, snippets, and project organization. | <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,postgres,docker" height="24" /> |
+| [N-Lite](https://github.com/dimitrije-dev/N-Lite) | iOS mood tracking app with clean SwiftUI architecture. | <img src="https://skillicons.dev/icons?i=swift,apple" height="24" /> |
+| [sMET](https://github.com/dimitrije-dev/sMET) | Desktop social network concept for university students. | <img src="https://skillicons.dev/icons?i=java" height="24" /> |
+| [SubTrack](https://github.com/dimitrije-dev/SubTrack) | Subscription tracking dashboard with Spring Boot MVC. | <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="24" /> |
 
 ---
 
 ## Current Focus
 
-Building practical, production-oriented apps with clean architecture, polished UX, and AI-assisted workflows.
-
----
-
-## Contact
-
-- Email: [dimitrije.milenkovic.met@gmail.com](mailto:dimitrije.milenkovic.met@gmail.com)
-- GitHub: [@dimitrije-dev](https://github.com/dimitrije-dev)
+Building practical applications with clean architecture, polished UX, and AI-assisted workflows.
