@@ -18,49 +18,18 @@
 
 ---
 
+
 ## Technology Stack
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" height="28" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" height="28" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter" height="28" /> |
+| **AI Tools** | <img src="https://cdn.simpleicons.org/openai" height="22" alt="OpenAI" /> <img src="https://cdn.simpleicons.org/ollama" height="22" alt="Ollama" /> <img src="https://cdn.simpleicons.org/anthropic" height="22" alt="Claude (Anthropic)" /><br><sub>ChatGPT (OpenAI) · Ollama · Claude</sub> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="28" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,figma,linux" height="28" /> |
 
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" />
-</p>
-
-### Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter" />
-</p>
-
-### AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-<p>
-  Faster-Whisper · Ollama · Qwen · AI transcription pipelines
-</p>
-
-### Blockchain / Web3
-<p align="left">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### Tools & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,figma,linux" />
-</p>
 
 ---
 
