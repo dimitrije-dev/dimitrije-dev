@@ -26,7 +26,7 @@
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" height="28" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" height="28" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter" height="28" /> |
-| **AI Tools** | <img src="https://cdn.simpleicons.org/openai" height="22" alt="OpenAI" /> <img src="https://cdn.simpleicons.org/ollama" height="22" alt="Ollama" /> <img src="https://cdn.simpleicons.org/anthropic" height="22" alt="Claude (Anthropic)" /><br><sub>ChatGPT (OpenAI) · Ollama · Claude</sub> |
+| **AI Tools** | <img src="https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="24" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="28" /> |
 | **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,figma,linux" height="28" /> |
 
