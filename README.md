@@ -18,10 +18,48 @@
 
 ---
 
-## Technologies
+## Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,react,vite,js,html,css,tailwind,nodejs,express,python,fastapi,java,spring,postgres,mysql,mongodb,docker,git,github,postman,figma,vercel" />
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" />
+</p>
+
+### Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+<p>
+  Faster-Whisper · Ollama · Qwen · AI transcription pipelines
+</p>
+
+### Blockchain / Web3
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Tools & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,figma,linux" />
 </p>
 
 ---
